@@ -61,6 +61,7 @@ Command | Description
 /gg		| Enables automatic sending of "gg" upon death of mod user.
 /help		| Opens up the Steam overlay and takes you to this page.
 /hp	```[<player_color>]```	| Outputs the percent based health of the target color to chat. Leave as ``/hp`` to always get your own.
+/hpwinner		| Automatically outputs the hp of the winner every round.
 /id	```[<player_color>]```		| Copies the Steam ID of the target player to clipboard.
 /invite		| Generates a "join game" link and copies it to clipboard.
 /lobhp		| Outputs the health set for the whole lobby.
